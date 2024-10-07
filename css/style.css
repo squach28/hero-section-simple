@@ -99,7 +99,11 @@ img {
   }
 
   .hero-container {
-    margin-top: 100px;
+    margin-top: 125px;
+  }
+
+  .btn-container {
+    margin-top: 3rem;
   }
 
   .btn {
